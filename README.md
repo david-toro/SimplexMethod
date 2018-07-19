@@ -11,6 +11,10 @@ To execute the automated tests run the file test_simplex.py in the test package
 * Python 3.5.4
 * Numpy 1.13.3
 
-# Acknowledgments
+## Acknowledgments
 
 Thanks to all the developers of Python, Numpy, Pycharm and Miniconda for making the building blocks that give life to this source code.
+
+## License
+
+This project is licensed under the BSD 2-Clause License - see the [LICENSE](LICENSE) file for details
